@@ -1,32 +1,15 @@
-## Welcome to GitHub Pages
+## Welcome to My website
 
-You can use the [editor on GitHub](https://github.com/Anil-Awasthi/Anil-Awasthi.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Rest of the content is coming soon stay tuned.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Contents coming soon are Reetika Bhatt's blog, where you will find the collection of her poems, songs, stories and her travel experiences.
 
-### Markdown
+                                                                    
+                                                                    
+                                                                    
+                                                                    !!!STAY TUNED !!!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
