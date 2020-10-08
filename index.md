@@ -7,7 +7,7 @@ Contents coming soon are Reetika Bhatt's blog, where you will find the collectio
                                                                     
                                                                     
                                                                     
-                                                                    !!!STAY TUNED !!!
+                                          !!!STAY TUNED !!!
 
 
 
